@@ -1,0 +1,3 @@
+- 👋 Olá meu nome é @lalafalida
+- 👀 Eu estou interessada a aprednder a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
